@@ -1,5 +1,5 @@
 const key = ['','','']
-const bscurl='http://bsc.mezz.fi/'
+const bscurl=''
 // 线性曲线
 const linearCurve_address='0xc392A78DE7eca339f135b39557c7CaCa9fe814cc';
 // 指数曲线
